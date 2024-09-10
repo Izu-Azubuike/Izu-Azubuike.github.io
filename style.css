@@ -1,12 +1,14 @@
 
 .body-bg
     {
-        background-image: url(Image.jpg);
         background-size: cover;
-        
+        background-image: url('image1.jpg'), url('image2.jpg'), url('image3.jpg'), url('image4.jpg'), url('image6.jpg');
         font-weight: 400;
-        
     }
+
+
+   
+    
 
 .div1{
     background-color: rgba(255, 255, 255, 0.76);
